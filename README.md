@@ -9,9 +9,15 @@ Link to the library on [npm]("https://www.npmjs.com/package/opencv4nodejs/").
 
 ##### For macOS
 
-Run `brew install cmake`.  
+Execute in terminal:
+```
+brew install cmake
+``` 
 
-Export path by `export PATH="/usr/local/bin:$PATH"`.
+Export path by executing:
+```
+export PATH="/usr/local/bin:$PATH"
+```
 
 ##### For other platforms
 
@@ -21,4 +27,8 @@ Follow official [installation guide]("https://cmake.org/install/").
 OpenCV library will be downloaded and compiled by opencv4nodejs. There is no need to have it installed on your machine.
 
 ## Installing dependencies
-Run `npm install` from the root of the project.
+
+In the root of the project execute:
+```
+npm install
+```
