@@ -1,11 +1,11 @@
 {
-  "name": "js-opencv-example",
-  "productName": "Opencv example",
+  "name": "js-opencv4nodejs-example",
+  "productName": "opencv4nodejs example",
   "version": "1.0.0",
   "description": "Example of using opencv4nodejs for image comparison",
   "scripts": {
   },
-  "repository": "https://github.com/unrealgear/js-opencv-example",
+  "repository": "https://github.com/unrealgear/js-opencv4nodejs-example",
   "keywords": [
     "js",
     "mocha",
@@ -15,7 +15,8 @@
     "difference",
     "examples",
     "opencv",
-    "open cv"
+    "open cv",
+    "opencv4nodejs"
   ],
   "devDependencies": {
     "chai": "^3.4.1",
