@@ -7,7 +7,7 @@ Link to the library on [npm]("https://www.npmjs.com/package/opencv4nodejs/").
 ## Prerequisites 
 [cmake]("https://cmake.org/") has to be installed on your machine.
 
-##### For macOS
+#### For macOS
 
 Execute in terminal:
 ```
@@ -19,7 +19,7 @@ Export path by executing:
 export PATH="/usr/local/bin:$PATH"
 ```
 
-##### For other platforms
+#### For other platforms
 
 Follow official [installation guide]("https://cmake.org/install/").
 
